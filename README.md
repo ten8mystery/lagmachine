@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋, A Simple Page Crashing Script!
-#### Now works with Windows XP-7-8-10-11 / Android / IOS..!
+####  Currently Supported Windows XP-7-8-10-11 / Android / IOS..!
 Tested as on - 26-09-2021
 
  ### What it Does : 
