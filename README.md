@@ -15,3 +15,8 @@ Tested as on - 26-09-2021
 
 ### Want to improve, or add functionality? 🌐
 - 🏆 Mail me :)
+
+HOW To Implement?
+- It can be implemented into a localhost HTTPS server/Live website..
+- <script></script> HTML Tag Recommended!
+- '1000' (default) value is customizable according to USE!
