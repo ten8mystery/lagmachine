@@ -6,4 +6,9 @@ if(confirm("THINK FAST CHUCKLENUTS")){
   setTimeout(function(){
     while(1)location.reload(1)
   }, 500)
+  
+  if(cancel("THINK FAST CHUCKLENUTS")){
+  setTimeout(function(){
+    while(1)location.reload(1)
+  }, 500)
 }
