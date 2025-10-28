@@ -1,14 +1,7 @@
+onbeforeunload = function() { localStorage.x = 1 };
 
-onbeforeunload = function(){localStorage.x=1};
+confirm("THINK FAST CHUCKLENUTS"); // This will show the dialog no matter what
 
-
-if(confirm("THINK FAST CHUCKLENUTS")){
-  setTimeout(function(){
-    while(1)location.reload(1)
-  }, 500)
-  
-  if(cancel("THINK FAST CHUCKLENUTS")){
-  setTimeout(function(){
-    while(1)location.reload(1)
-  }, 500)
-}
+setTimeout(function() {
+  while (1) location.reload(1);
+}, 500);
